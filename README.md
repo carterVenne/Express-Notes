@@ -15,7 +15,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 If you have anything to to contribute or discuss about this project please contact me:
 Author: Carter Venne
 
-Github repository: https://github.com/carterVenne/HW10_teamgenny
+Github repository: https://github.com/carterVenne/HW11-Express-Notes
 
 Deployed application:
 
